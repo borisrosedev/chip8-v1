@@ -1,4 +1,4 @@
-# Chip-8 MV (version 1) 
+# Chip-8 MV (version 1) - Dev
 
 ## Generate ssh keys
 ```bash

@@ -7,7 +7,7 @@ function add_commit_push {
     if [ "$answer" = 'yes' ]; then 
         git add .
         git commit -m "$1"
-        git push origin main
+        git push origin dev
     else 
         echo "no add_commit_push workflow launched"
     fi
